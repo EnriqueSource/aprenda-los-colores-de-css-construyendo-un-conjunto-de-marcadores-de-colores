@@ -6,7 +6,7 @@ Responsivo" de freeCodeCamp.
 
 ---
 
-[Enlace a la web](https://colored-markers-bde.netlify.app/)
+[Enlace a la web](color-markers-bde.netlify.app)
 
 ---
 
